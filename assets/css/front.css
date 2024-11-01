@@ -1,0 +1,58 @@
+/*
+For frontend
+*/
+.current-account-avatar img{
+    webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+} 
+.caption_button{
+    float: right;
+    margin-top: 3px;
+}
+.caption_button > .btn.uppercase.portlet_button1,
+.caption_button > .btn.uppercase.portlet_button2{
+    border-color: #fff;    
+}
+.portlet-notice{
+    float: left;
+    font-size: 16px;
+}
+@media (min-width: 992px){
+    .page-content-wrapper .page-content {
+        margin-left: 0px;
+    }
+    .primary.nav-menu .current-cart .current-cart-count {
+        webkit-border-radius: 50%!important;
+        -moz-border-radius: 50% !important;
+        border-radius: 50% !important;
+    }
+}
+.portlet_button_wp{
+    margin-bottom: 20px;
+}
+       
+.portlet-title .caption_button .portlet_button2{
+    display: none;
+}
+.portlet_button1, .portlet_button2{
+    min-width: 57px;
+}
+@media (min-width: 992px){
+    .page-content-wrapper .page-content {
+        margin-left: 0px;
+    }
+}
+.portlet_button_wp{
+    margin-bottom: 20px;
+}        
+.portlet_button2{
+    display: none;
+}
+.portlet_button1, .portlet_button2{
+    min-width: 57px;
+}
+.view_portlet_body{
+    min-height:200px;
+    min-width:271px;          
+}

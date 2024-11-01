@@ -1,0 +1,59 @@
+/*
+For admin panel
+*/
+body{ background-color: inherit; }
+#adminmenu .update-plugins{
+    webkit-border-radius: 10px!important;
+    -moz-border-radius: 10px !important;
+    border-radius: 10px !important;
+} 
+.tabbable-line>.tab-content{
+    padding-bottom: 0px;
+}
+.caption_button{
+    float: right;
+    margin-top: 3px;
+}
+.caption_button > .btn.uppercase.portlet_button1,
+.caption_button > .btn.uppercase.portlet_button2{
+    border-color: #fff;    
+}
+.portlet-notice{
+    float: left;
+    font-size: 16px;
+}
+@media (min-width: 992px){
+    .page-content-wrapper .page-content {
+        margin-left: 0px;
+    }
+}
+.portlet_button_wp{
+    margin-bottom: 20px;
+}       
+.portlet_button2{
+    display: none;
+}
+.portlet_button1, .portlet_button2{
+    min-width: 57px;
+}
+@media (min-width: 992px){
+    .page-content-wrapper .page-content {
+        margin-left: 0px;
+    }
+}
+.portlet_button_wp{
+    margin-bottom: 20px;
+}       
+.portlet_button2{
+    display: none;
+}
+.portlet_button1, .portlet_button2{
+    min-width: 57px;
+}
+.view_portlet_body{
+    min-height:200px;
+    min-width:100px;          
+}
+form[name="portlet_delete"]{
+    display: inline;
+}

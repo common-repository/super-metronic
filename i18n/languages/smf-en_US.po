@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Super Metronic\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Wed May 25 2016 10:52:54 GMT+0300 (EEST)\n"
+"PO-Revision-Date: Mon May 30 2016 16:28:38 GMT+0300 (EEST)\n"
+"Last-Translator: bigtonni <shandm85@gmail.com>\n"
+"Language-Team: \n"
+"Language: English\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ../..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Loco-Target-Locale: en_US"
+
+#. Name of the plugin
+msgid "Super Metronic"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/BigTonni"
+msgstr ""
+
+#. Description of the plugin
+msgid "Mega functionality with Metronic."
+msgstr ""
+
+#. Author of the plugin
+msgid "Anton Shulga"
+msgstr ""
+
+#: ../../includes/sm-helpers.php:21
+msgid "Upload"
+msgstr ""
+
+#: ../../includes/admin/class-super-metronic-admin.php:30 ../..
+#: includes/admin/class-super-metronic-admin.php:30 ../..
+#: includes/admin/view/portlets_activate.php:16
+msgid "Portlets"
+msgstr ""
+
+#: ../../includes/admin/class-super-metronic-admin.php:31 ../..
+#: includes/admin/class-super-metronic-admin.php:31 ../../includes/admin/class-
+#: super-metronic-admin.php:139 ../../includes/admin/view/portlets_activate.php:32
+msgid "Activate"
+msgstr ""
+
+#: ../../includes/admin/class-super-metronic-admin.php:32 ../..
+#: includes/admin/class-super-metronic-admin.php:32
+msgid "Customize"
+msgstr ""
+
+#: ../../includes/admin/class-super-metronic-admin.php:84
+msgid "Data was successfully stored"
+msgstr ""
+
+#: ../../includes/admin/class-super-metronic-admin.php:117
+msgid "Error"
+msgstr ""
+
+#: ../../includes/admin/class-super-metronic-admin.php:135 ../..
+#: includes/admin/view/portlets_activate.php:29
+msgid "Deactivate"
+msgstr ""
+
+#: ../../includes/admin/class-super-metronic-admin.php:166
+msgid "Portlet was successfully removed."
+msgstr ""
+
+#: ../../includes/admin/class-super-metronic-admin.php:217
+msgid "On"
+msgstr ""
+
+#: ../../includes/admin/class-super-metronic-admin.php:218
+msgid "Off"
+msgstr ""
+
+#: ../../includes/admin/class-super-metronic-admin.php:238
+msgid "Typography"
+msgstr ""
+
+#: ../../includes/admin/class-super-metronic-admin.php:239
+msgid "Background"
+msgstr ""
+
+#: ../../includes/admin/class-super-metronic-admin.php:240
+msgid "Buttons"
+msgstr ""
+
+#: ../../includes/admin/class-super-metronic-admin.php:281
+msgid "Cancel"
+msgstr ""
+
+#: ../../includes/admin/class-super-metronic-admin.php:334
+msgid "Button"
+msgstr ""
+
+#: ../../includes/admin/class-super-metronic-admin.php:355
+msgid "Primary text"
+msgstr ""
+
+#: ../../includes/admin/class-super-metronic-admin.php:359
+msgid "Secondary text"
+msgstr ""
+
+#: ../../includes/admin/class-super-metronic-admin.php:372
+msgid "Save"
+msgstr ""
+
+#: ../../includes/admin/class-super-metronic-admin.php:372
+msgid "Close"
+msgstr ""
+
+#: ../../includes/admin/view/portlets_customize.php:52
+msgid "UI Collor Collection"
+msgstr ""
+
+#: ../../includes/admin/view/portlets_customize.php:65
+msgid "Click to view demos for this color"
+msgstr ""
+
+#: ../../includes/admin/view/portlets_activate.php:34
+msgid "Delete"
+msgstr ""
+
+#: ../../includes/admin/view/portlets_activate.php:48
+#, php-format
+msgid "You can create portlets right now and %shere%s."
+msgstr ""
